@@ -10,6 +10,14 @@
     font-family: 'Oswald', sans-serif;
 }
 
+/* this reduces the size of 1 rem to 10 pixels */
+html{
+    font-size: 62.5%;
+}
+
+/* section 1 */
 .section-1{
-    background-color: aqua;
+    width:100%;
+    height:100vh;
+    background-image: url(assets/images/dark-bg.jpeg);
 }
